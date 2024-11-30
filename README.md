@@ -12,7 +12,7 @@ Este proyecto permite enviar correos electrónicos a través de un formulario de
 
 ## Estructura de Archivos 📂
 
-bash
+```bash
 /dist
   ├── app.css         # Estilos de la aplicación (TailwindCSS)
   ├── spinner.css     # Estilos del spinner de carga
@@ -22,7 +22,7 @@ bash
 
 index.html           # Página HTML principal con el formulario de contacto
 README.md            # Documentación del proyecto
-
+```
 ## Explicación del Código JavaScript 💻
 
 El archivo `js/app.js` contiene toda la lógica necesaria para gestionar el formulario de contacto. A continuación se explica cada parte del código:
